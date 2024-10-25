@@ -1,0 +1,5 @@
+hand_raise
+looking_forward
+read
+sleep
+turning_around
